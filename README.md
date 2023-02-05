@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PowerScreenVue
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -27,3 +28,7 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# Visualization
+基于Vue3、ECharts、Vite4的大屏适应的可视化项目
+>>>>>>> b522c58c98a82f3e9d831b40375729bb3f31f20c
